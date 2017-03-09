@@ -1,0 +1,12 @@
+1 - Arquitetura baseada em componentes (component-based)
+ Framework: EJB - Enterprise JavaBeans 
+  Torna o desenvolvimento de aplicações rápido e simplificado com componentes distribuídos.
+  
+  Demoiselle Framework: J2EE
+    
+ 2 - Message Bus
+ Framework: Unified Message Bus Framework
+  Escalável, baixa complexidade e flexível.
+
+3 - Service-Oriented Architecture (SOA)
+
